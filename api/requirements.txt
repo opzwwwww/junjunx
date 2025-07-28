@@ -1,4 +1,3 @@
-os
 socket
 win32api
 requests
